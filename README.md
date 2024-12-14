@@ -9,6 +9,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,4 +46,20 @@
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
