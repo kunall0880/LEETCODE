@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kunall0880/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
