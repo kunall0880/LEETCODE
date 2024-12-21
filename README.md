@@ -85,4 +85,5 @@
 | [0595-big-countries](https://github.com/kunall0880/LEETCODE/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/kunall0880/LEETCODE/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kunall0880/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/kunall0880/LEETCODE/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
