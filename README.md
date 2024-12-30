@@ -69,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kunall0880/LEETCODE/tree/master/0029-divide-two-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -93,4 +94,8 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/kunall0880/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/kunall0880/LEETCODE/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kunall0880/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kunall0880/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
