@@ -1,16 +1,15 @@
 class Solution {
 public:
-    int dp[100];
-    int solve(int n){
-        if(n==0)return 1;
-        if(n==1)return 1;
-        if(dp[n]!=-1)return dp[n];
-        int l = solve(n-1);
-        int r = solve(n-2);
-        return dp[n]=(l+r);
-    }
     int climbStairs(int n) {
-        memset(dp,-1,sizeof(dp));
-        return solve(n);
+        if(n==1)return 1;
+        if(n==2)return 2;
+        long a=1,b=2;
+        long ans=0;
+        for(int i=2;i<n;i++){
+            ans=a+b;
+            a=b;
+            b=ans;
+        }
+        return (int)ans;
     }
 };
