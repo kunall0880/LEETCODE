@@ -22,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0070-climbing-stairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kunall0880/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0070-climbing-stairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kunall0880/LEETCODE/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
