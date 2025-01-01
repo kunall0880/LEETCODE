@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int findKthPositive(vector<int>& arr, int k) {
-        int m=*max_element(arr.begin(),arr.end());
-        int j=0,s=k;
-        for(int i=1;i<=m+s;i++){
-            if(j<arr.size()&&arr[j]==i){
-                j++;
+    int bin(int k,int low,int high ,vector<int>arr){
+        int mid=(low+high)/2;
+        while(low<=high){
+            mid=(low+high)/2;
+            if((arr[mid]-(mid+1)) < k){
+                low=mid+1;
             }else{
-                k--;
-            }
-            if(k==0){
-                return i;
+                high=mid-1;
             }
         }
-        return -1;
+        return low+k;
+    }
+    int findKthPositive(vector<int>& arr, int k) {
+        return bin(k,0,arr.size()-1,arr);
     }
 };
