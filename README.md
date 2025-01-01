@@ -42,6 +42,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kunall0880/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
 ## Simulation
 |  |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kunall0880/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
