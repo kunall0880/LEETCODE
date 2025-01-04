@@ -1,25 +1,36 @@
 class Solution {
 public:
-    int dynamic(int i,int j,vector<vector<long>>&dp,vector<vector<int>>nums){
-        if((i>=0 && j>=0) && nums[i][j]==1){
-            return 0;
-        }
-        if(j==0 && i==0){
-            return 1;
-        }
-        if(j<0 || i<0){
-            return 0;
-        }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        int u=dynamic(i-1,j,dp,nums);
-        int l=dynamic(i,j-1,dp,nums);
-        return dp[i][j]=(u+l);
-    }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m=obstacleGrid.size(),n=obstacleGrid[0].size();
         vector<vector<long>>dp(m,vector<long>(n,-1));
-        return dynamic(m-1,n-1,dp,obstacleGrid);
+        if(obstacleGrid[0][0]==1 || obstacleGrid[m-1][n-1]==1){
+            return 0;
+        }
+        if(m==1&&n==1){
+            return m;
+        }
+        dp[0][0]=1;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(obstacleGrid[i][j]==1){
+                    dp[i][j]=0;
+                    continue;
+                }else if(i==0 && j==0){
+                    dp[i][j]=1;
+                    continue;
+                }else{
+                    int u=0;
+                    if(i>0){
+                        u=dp[i-1][j];
+                    }
+                    int l=0;
+                    if(j>0){
+                        l=dp[i][j-1];
+                    }
+                    dp[i][j]=u+l;
+                }
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
