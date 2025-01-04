@@ -2,28 +2,30 @@ class Solution {
 public:
     int minPathSum(vector<vector<int>>& nums) {
         int m = nums.size(), n = nums[0].size();
-        vector<vector<long>> dp(m, vector<long>(n, 0));
+        vector<long>prev(n,0);
         for (int i = 0; i < m; i++) {
+            vector<long>temp(n,0);
             for (int j = 0; j < n; j++) {
                 if (i == 0 && j == 0) {
-                    dp[0][0] = nums[0][0];
+                    temp[j] = nums[i][j];
                 }else {
                     long rig=nums[i][j];
                     if(j>0){
-                        rig += dp[i][j - 1];
+                        rig += temp[j - 1];
                     }else{
-                        rig=INT_MAX;
+                        rig=1e9;
                     }
                     long up=nums[i][j];
                     if(i>0){
-                        up += dp[i - 1][j];
+                        up += prev[j];
                     }else{
-                        up=INT_MAX;
+                        up=1e9;
                     }
-                    dp[i][j] = min(rig, up);
+                    temp[j] = min(rig, up);
                 }
             }
+            prev=temp;
         }
-        return (int)dp[m - 1][n - 1];
+        return prev[n-1];
     }
 };
