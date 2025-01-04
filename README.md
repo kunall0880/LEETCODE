@@ -8,6 +8,7 @@
 | [0152-maximum-product-subarray](https://github.com/kunall0880/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kunall0880/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kunall0880/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kunall0880/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kunall0880/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
