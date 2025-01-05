@@ -1,9 +1,8 @@
 class Solution {
 public:
-    string shiftingLetters(string s, vector<vector<int>>& nums) {
-        string ans=s;
+    string shiftingLetters(string ans, vector<vector<int>>& nums) {
         int n=nums.size();
-        vector<int>count(s.length()+1,0);
+        vector<int>count(ans.length()+1,0);
         for(int i=0;i<n;i++){
             int start=nums[i][0],end=nums[i][1],dir=nums[i][2];
             int x=1;
@@ -11,15 +10,14 @@ public:
                 x=-1;
             }
             count[start]+=x;
-            if(end+1<s.length()){
+            if(end+1<ans.length()){
                 count[end+1]-=x;
             }
         }
-        n=s.length();
+        n=ans.length();
         for(int i=1;i<n;i++){
             count[i]+=count[i-1];
         }
-        n=s.length();
         for(int i=0;i<n;i++){
             int shift=count[i]%26;
             if(shift<0){
