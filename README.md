@@ -11,6 +11,7 @@
 | [0198-house-robber](https://github.com/kunall0880/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kunall0880/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kunall0880/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -57,6 +58,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunall0880/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunall0880/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/kunall0880/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
@@ -132,6 +134,7 @@
 ## String
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunall0880/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunall0880/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunall0880/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
