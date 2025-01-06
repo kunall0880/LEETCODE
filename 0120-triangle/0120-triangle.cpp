@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumTotal(vector<vector<int>>& nums) {
         int m=nums.size(),n=nums[0].size();
-        vector<vector<int>>dp(m,vector<int>(m,-1));
+        //vector<vector<int>>dp(m,vector<int>(m,-1));
         //return sol(triangle,0,0,m,dp);
         vector<int>temp(m,-1);
         for(int i=0;i<m;i++){
