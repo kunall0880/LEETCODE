@@ -14,6 +14,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+| [1524-string-matching-in-an-array](https://github.com/kunall0880/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kunall0880/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
+| [1524-string-matching-in-an-array](https://github.com/kunall0880/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunall0880/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kunall0880/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunall0880/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -158,4 +160,8 @@
 | [0063-unique-paths-ii](https://github.com/kunall0880/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/kunall0880/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
