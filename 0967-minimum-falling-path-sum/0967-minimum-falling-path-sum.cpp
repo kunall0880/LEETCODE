@@ -7,7 +7,6 @@ public:
         }
         long ans=INT_MAX;
         vector<int>prev(m,-1);
-        vector<vector<int>>dp(m,vector<int>(n,-1));
         for(int i=0;i<n;i++){
             //dp[n-1][i]=nums[m-1][i];
             prev[i]=nums[0][i];
