@@ -1,25 +1,67 @@
-class Solution {
-public:
-    bool isPrefixAndSuffix(string str1,string str2){
-        int l1=str1.length(),l2=str2.length();
-        if(l1>l2){
-            return false;
+struct trieNode{
+    struct trieNode * child[26];
+    bool isend;
+};
+struct trieNode * getnode(){
+    struct trieNode * newNode = new trieNode();
+    newNode->isend=false;
+    for(int i=0;i<26;i++){
+        newNode->child[i]=NULL;
+    }
+    return newNode;
+}
+class Trie{
+    public:
+    struct trieNode * root;
+    Trie(){
+        root=getnode();
+    }
+    void insert(string word){
+        struct trieNode * p = root;
+        for(auto it : word){
+            int idx=it-'a';
+            if(p->child[idx]==NULL){
+                p->child[idx]=getnode();
+            }
+            p=p->child[idx];
         }
-        for(int i=0;i<l1;i++){
-            if(str2[i]!=str1[i]){
+        p->isend=true;
+    }
+    bool search(string str){
+        struct trieNode * p=root;
+        for(auto it : str){
+            int idx=it-'a';
+            if(p->child[idx]==NULL){
                 return false;
             }
-            if(str2[l2-1-i]!=str1[l1-1-i]){
-                return false;
-            }
+            p=p->child[idx];
         }
         return true;
     }
-    int countPrefixSuffixPairs(vector<string>& words) {
-        int count=0,n=words.size();
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(isPrefixAndSuffix(words[i],words[j])){
+};
+class Solution {
+public:
+    long long countPrefixSuffixPairs(vector<string>& words) {
+        long long count=0;
+        int n=words.size();
+        for(int j=0;j<n;j++){
+            Trie t1,t2;
+            t1.insert(words[j]);
+
+            string str1=words[j];
+            reverse(str1.begin(),str1.end());
+
+            t2.insert(str1);
+
+            for(int i=0;i<j;i++){
+                if(words[j].length()<words[i].length()){
+                    continue;
+                }
+                string str2=words[i];
+                
+                reverse(str2.begin(),str2.end());
+
+                if(t1.search(words[i])==true&&t2.search(str2)==true){
                     count++;
                 }
             }
