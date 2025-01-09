@@ -1,22 +1,26 @@
 class Solution {
 public:
-    long long solve(vector<int>& nums,int n,int i,vector<long long>&dp){
-        if(i>=n){
-            return 0;
-        }
-        if(i==n-1){
-            return nums[i];
-        }
-        if(dp[i]!=-1){
-            return dp[i];
-        }
-        long long l=nums[i]+solve(nums,n,i+1,dp);
-        long long r=nums[i]+solve(nums,n,i+2,dp);
-        return dp[i]=min(l,r);
-    }
     int minCostClimbingStairs(vector<int>& nums) {
         int n=nums.size();
-        vector<long long>dp(n,-1);
-        return min(solve(nums,n,0,dp),solve(nums,n,1,dp));
+        vector<int>dp(n,-1);
+        //return min(solve(nums,n,0,dp),solve(nums,n,1,dp));
+        dp[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            int l=nums[i]+dp[i+1];
+            int r=nums[i];
+            if(i+2<n){
+                r+=dp[i+2];
+            }
+            dp[i]=min(l,r);
+        }
+        for(int i=n-2;i>=1;i--){
+            int l=nums[i]+dp[i+1];
+            int r=nums[i];
+            if(i+2<n){
+                r+=dp[i+2];
+            }
+            dp[i]=min(l,min(dp[i],r));
+        }
+        return min(dp[1],dp[0]);
     }
 };
