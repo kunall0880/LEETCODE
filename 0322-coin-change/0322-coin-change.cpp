@@ -20,11 +20,23 @@ public:
         }
         return dp[amount]=ans;
     }
-    int coinChange(vector<int>& coins, int amount) {
+    int coinChange(vector<int>& nums, int amount) {
         vector<long long>dp(amount+1,-1);
-        long long ans=solve(coins,amount,dp);
-        if(ans!=INT_MAX){
-            return ans;
+        int n=amount;
+        dp[0]=0;
+        for(int i=1;i<=n;i++){
+            long long ans=INT_MAX;
+            for(int j=0;j<nums.size();j++){
+                long long count=INT_MAX;
+                if(i-nums[j]>=0){
+                    count=dp[i-nums[j]];
+                }
+                ans=min(ans,count+1);
+            }
+            dp[i]=ans;
+        }
+        if(dp[n]!=INT_MAX){
+            return dp[n];
         }
         return -1;
     }
