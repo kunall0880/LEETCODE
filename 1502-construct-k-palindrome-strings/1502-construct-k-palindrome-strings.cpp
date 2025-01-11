@@ -7,16 +7,16 @@ public:
         if(k>s.length()){
             return false;
         }
-        unordered_map<char,int>mp;
+        char arr[26];
         int oddcount=0;
         for(auto ch : s){
-            mp[ch]++;
+            int idx = ch-'a';
+            arr[idx]++;
         }
-        for(auto it : mp){
-            if(it.second%2!=0){
+        for(int i=0;i<26;i++){
+            if(arr[i]%2!=0){
                 oddcount++;
             }
-            cout<<it.first<<" "<<it.second<<endl;
         }
         if(oddcount<=k){
             return true;
