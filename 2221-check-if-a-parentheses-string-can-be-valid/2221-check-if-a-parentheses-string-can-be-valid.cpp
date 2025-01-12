@@ -5,32 +5,28 @@ public:
         if(n%2 != 0){
             return false;
         }
-        stack<int>open;
-        stack<int>both;
+        int ltr=0,rtl=0;
         for(int i=0;i<n;i++){
-            if(locked[i]=='0'){
-                both.push(i);
-            }else if(s[i]=='('){
-                open.push(i);
-            }else if(s[i]==')'){
-                if(!open.empty()){
-                    open.pop();
-                }else if(!both.empty()){
-                    both.pop();
-                }else{
-                    return false;
-                }
+            if(locked[i]=='0'||s[i]=='('){
+                ltr++;
+            }else{
+                ltr--;
+            }
+            if(ltr<0){
+                return false;
             }
         }
-
-        while(!open.empty()&&!both.empty()&&open.top()<both.top()){
-            open.pop();
-            both.pop();
+        for(int i=n-1;i>=0;i--){
+            if(locked[i]=='0'||s[i]==')'){
+                rtl++;
+            }
+            else{
+                rtl--;
+            }
+            if(rtl<0){
+                return false;
+            }
         }
-        
-        if(open.empty()){
-            return true;
-        }
-        return false;
+        return true;
     }
 };
