@@ -32,6 +32,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kunall0880/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/kunall0880/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunall0880/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
@@ -155,6 +156,7 @@
 | [2509-minimize-xor](https://github.com/kunall0880/LEETCODE/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kunall0880/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kunall0880/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/kunall0880/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
