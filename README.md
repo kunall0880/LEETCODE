@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/kunall0880/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kunall0880/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/kunall0880/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/kunall0880/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
@@ -57,6 +58,7 @@
 | [0198-house-robber](https://github.com/kunall0880/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kunall0880/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/kunall0880/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/kunall0880/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
