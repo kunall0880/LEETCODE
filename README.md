@@ -18,6 +18,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kunall0880/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -72,6 +73,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -188,6 +190,7 @@
 | [0063-unique-paths-ii](https://github.com/kunall0880/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 ## String Matching
 |  |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -226,4 +230,12 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kunall0880/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
