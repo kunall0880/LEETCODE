@@ -4,7 +4,7 @@ public:
         int n=coins.size();
         //vector<vector<long long>>dp(n,vector<long long>(target+1,0));
         //sort(coins.begin(),coins.end());
-        vector<long long>curr(target+1,0),prev(target+1,0);
+        vector<long long>prev(target+1,0);
         for(int i=0;i<=target;i++){
             if(i%coins[0]==0){
                 prev[i]=i/coins[0];
@@ -17,11 +17,11 @@ public:
                 long long nottake=0+prev[j];
                 long long take=INT_MAX;
                 if(coins[i]<=j){
-                    take=1+curr[j-coins[i]];
+                    take=1+prev[j-coins[i]];
                 }
-                curr[j]=min(take,nottake);
+                prev[j]=min(take,nottake);
             }
-            prev=curr;
+           // prev=curr;
         }
         return prev[target]==INT_MAX?-1:prev[target];
 }
