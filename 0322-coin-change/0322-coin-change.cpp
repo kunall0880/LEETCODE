@@ -1,43 +1,26 @@
 class Solution {
 public:
-    int solve(vector<int>& nums,int amount,vector<long long>&dp){
-        if(amount<0){
-            return INT_MAX;
-        }
-        if(amount==0){
-            return 0;
-        }
-        if(dp[amount]!=-1){
-            return dp[amount];
-        }
-        long long ans=INT_MAX;
-        for(int i=0;i<nums.size();i++){
-            long long count=INT_MAX;
-            if(amount>=nums[i]){
-                count=solve(nums,amount-nums[i],dp);
+    int coinChange(vector<int>& coins, int target) {
+        int n=coins.size();
+        vector<vector<long long>>dp(n,vector<long long>(target+1,0));
+        sort(coins.begin(),coins.end());
+        for(int i=0;i<=target;i++){
+            if(i%coins[0]==0){
+                dp[0][i]=i/coins[0];
+            }else{
+                dp[0][i]=INT_MAX;
             }
-            ans=min(ans,count+1);
         }
-        return dp[amount]=ans;
-    }
-    int coinChange(vector<int>& nums, int amount) {
-        vector<long long>dp(amount+1,-1);
-        int n=amount;
-        dp[0]=0;
-        for(int i=1;i<=n;i++){
-            long long ans=INT_MAX;
-            for(int j=0;j<nums.size();j++){
-                long long count=INT_MAX;
-                if(i-nums[j]>=0){
-                    count=dp[i-nums[j]];
+        for(int i=1;i<n;i++){
+            for(int j=0;j<=target;j++){
+                long long nottake=0+dp[i-1][j];
+                long long take=INT_MAX;
+                if(coins[i]<=j){
+                    take=1+dp[i][j-coins[i]];
                 }
-                ans=min(ans,count+1);
+                dp[i][j]=min(take,nottake);
             }
-            dp[i]=ans;
         }
-        if(dp[n]!=INT_MAX){
-            return dp[n];
-        }
-        return -1;
-    }
+        return dp[n-1][target]==INT_MAX?-1:dp[n-1][target];
+}
 };
