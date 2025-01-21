@@ -3,7 +3,7 @@ public:
     int coinChange(vector<int>& coins, int target) {
         int n=coins.size();
         vector<vector<long long>>dp(n,vector<long long>(target+1,0));
-        sort(coins.begin(),coins.end());
+        //sort(coins.begin(),coins.end());
         for(int i=0;i<=target;i++){
             if(i%coins[0]==0){
                 dp[0][i]=i/coins[0];
