@@ -25,6 +25,7 @@
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
+| [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kunall0880/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kunall0880/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/kunall0880/LEETCODE/tree/master/2145-grid-game) |
@@ -201,6 +202,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
+| [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/kunall0880/LEETCODE/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kunall0880/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
@@ -227,6 +229,7 @@
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 ## Greedy
 |  |
 | ------- |
