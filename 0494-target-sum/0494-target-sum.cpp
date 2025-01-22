@@ -8,7 +8,7 @@ public:
         }
         sum=sum-target;
         sum=sum/2;
-        vector<vector<int>>dp(n,vector<int>(sum+1,0));
+        //vector<vector<int>>dp(n,vector<int>(sum+1,0));
         vector<int>prev(sum+1,0),curr(sum+1,0);
         if(nums[0]==0){
             prev[0]=2;
