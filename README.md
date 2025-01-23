@@ -20,6 +20,7 @@
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
+| [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kunall0880/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -72,6 +73,7 @@
 | [0518-coin-change-ii](https://github.com/kunall0880/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
@@ -139,6 +141,7 @@
 | [0029-divide-two-integers](https://github.com/kunall0880/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/kunall0880/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
