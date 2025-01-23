@@ -18,12 +18,13 @@ public:
         return 0;
     }
     bool stoneGame(vector<int>& piles) {
-        int a=0,b=0,n=piles.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        solve(piles,0,0,n-1,a,b,1,dp);
-        if(a>b){
-            return true;
-        }
-        return false;
+        // int a=0,b=0,n=piles.size();
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        // solve(piles,0,0,n-1,a,b,1,dp);
+        // if(a>b){
+        //     return true;
+        // }
+        // return false;
+        return true;
     }
 };
