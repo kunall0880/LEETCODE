@@ -2,18 +2,13 @@ class Solution {
 public:
     vector<int> lexicographicallySmallestArray(vector<int>& vec, int limit) {
         int n=vec.size();
-
         vector<int>nums=vec;
         sort(nums.begin(),nums.end());
-
         int count=0;
-
         unordered_map<int,list<int>>grp;
         unordered_map<int,int>who;
-
         who[nums[0]]=count;
         grp[count].push_back(nums[0]);
-
         for(int i=1;i<n;i++){
             if(abs(nums[i]-nums[i-1])>limit){
                 count++;
@@ -21,9 +16,6 @@ public:
             who[nums[i]]=count;
             grp[count].push_back(nums[i]);
         }
-
-        vector<int>res(n);
-
         for(int i=0;i<n;i++){
             int num=vec[i];
             int group=who[num];
