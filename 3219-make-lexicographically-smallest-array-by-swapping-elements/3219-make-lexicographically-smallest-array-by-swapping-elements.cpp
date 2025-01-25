@@ -25,7 +25,7 @@ public:
         return nums;
     }
 };
-// int n=nums.size();
+        // int n=nums.size();
         // for(int i=0;i<n;i++){
         //     while(1){
         //         int smallest=nums[i];
