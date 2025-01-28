@@ -19,6 +19,7 @@
 | [0518-coin-change-ii](https://github.com/kunall0880/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
@@ -215,6 +216,7 @@
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kunall0880/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -249,6 +251,7 @@
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/kunall0880/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/kunall0880/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/kunall0880/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -300,6 +304,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunall0880/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
