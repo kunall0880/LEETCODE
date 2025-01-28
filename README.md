@@ -10,6 +10,7 @@
 | [0120-triangle](https://github.com/kunall0880/LEETCODE/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kunall0880/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kunall0880/LEETCODE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kunall0880/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kunall0880/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
@@ -243,6 +245,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kunall0880/LEETCODE/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
@@ -287,6 +290,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0820-find-eventual-safe-states](https://github.com/kunall0880/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -295,6 +299,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunall0880/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
