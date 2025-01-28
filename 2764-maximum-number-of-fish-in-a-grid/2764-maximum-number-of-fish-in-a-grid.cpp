@@ -37,3 +37,43 @@ public:
         return count;
     }
 };
+/*
+#BFS
+int BFS(int i,int j,vector<vector<int>>&grid){
+        int m=grid.size();
+        int n=grid[0].size();
+        queue<pair<int,int>>que;
+        int count=grid[i][j];
+        grid[i][j]=0;
+        que.push({i,j});
+        while(!que.empty()){
+            i=que.front().first;
+            j=que.front().second;
+            que.pop();
+            for(auto it : dir){
+            int i_=i+it[0];
+            int j_=j+it[1];
+                if(i_>=0&&i_<m&&j_>=0&&j_<n&&grid[i_][j_]!=0){
+                    count+=grid[i_][j_];
+                    grid[i_][j_]=0;
+                    que.push({i_,j_});
+                }
+            }
+        }
+        return count;
+    }
+#DFS
+    int DFS(int i,int j,vector<vector<int>>&grid){
+        int count=grid[i][j];
+        grid[i][j]=0;
+        int m=grid.size(),n=grid[0].size();
+        for(auto it : dir){
+            int i_=i+it[0];
+            int j_=j+it[1];
+            if(i_>=0&&i_<m&&j_>=0&&j_<n&&grid[i_][j_]!=0){
+                count+=DFS(i_,j_,grid);
+            }
+        }
+        return count;
+    }
+*/
