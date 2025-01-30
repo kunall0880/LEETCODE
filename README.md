@@ -269,6 +269,7 @@
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kunall0880/LEETCODE/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kunall0880/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
@@ -295,6 +296,7 @@
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kunall0880/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kunall0880/LEETCODE/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kunall0880/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kunall0880/LEETCODE/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kunall0880/LEETCODE/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunall0880/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Game Theory
