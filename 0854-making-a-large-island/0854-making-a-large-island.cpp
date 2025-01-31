@@ -1,15 +1,14 @@
 class Solution {
 public:
     vector<vector<int>>dir={{0,1},{0,-1},{1,0},{-1,0}};
-    int DFS(int i,int j,vector<vector<int>>&adj,vector<vector<bool>>&visit,int id){
-        visit[i][j]=true;
+    int DFS(int i,int j,vector<vector<int>>&adj,int id){
         adj[i][j]=id;
         int count=1,n=adj.size();
         for(auto it : dir){
             int i_=i+it[0];
             int j_=j+it[1];
-            if(i_>=0&&i_<n&&j_>=0&&j_<n&&visit[i_][j_]==false&&adj[i_][j_]==1){
-                count+=DFS(i_,j_,adj,visit,id);
+            if(i_>=0&&i_<n&&j_>=0&&j_<n&&adj[i_][j_]==1){
+                count+=DFS(i_,j_,adj,id);
             }
         }
         return count;
@@ -18,12 +17,11 @@ public:
         int n=grid.size();
         int ans=0,maxi=0;
         unordered_map<int,int>unique;
-        vector<vector<bool>>visit(n,vector<bool>(n,false));
         int uniqueid=2;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]==1&&visit[i][j]==false){
-                    unique[uniqueid]=DFS(i,j,grid,visit,uniqueid);
+                if(grid[i][j]==1){
+                    unique[uniqueid]=DFS(i,j,grid,uniqueid);
                     uniqueid++;
                 }
             }
