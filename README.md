@@ -27,6 +27,7 @@
 | [0854-making-a-large-island](https://github.com/kunall0880/LEETCODE/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/kunall0880/LEETCODE/tree/master/1036-rotting-oranges) |
@@ -95,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -287,6 +289,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunall0880/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -366,5 +369,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 <!---LeetCode Topics End-->
