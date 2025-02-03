@@ -59,6 +59,7 @@
 | [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunall0880/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunall0880/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunall0880/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/kunall0880/LEETCODE/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
