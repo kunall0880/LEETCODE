@@ -1,7 +1,7 @@
 class Solution {
 public:
     int brokenCalc(int start, int tar) {
-        long long curr=tar;
+        int curr=tar;
         int oper=0;
         while(curr!=start&&curr>=0){
             if(curr<start){
