@@ -162,6 +162,7 @@
 | [0062-unique-paths](https://github.com/kunall0880/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
+| [1033-broken-calculator](https://github.com/kunall0880/LEETCODE/tree/master/1033-broken-calculator) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -292,6 +293,7 @@
 | ------- |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/kunall0880/LEETCODE/tree/master/1033-broken-calculator) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunall0880/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/kunall0880/LEETCODE/tree/master/2509-minimize-xor) |
