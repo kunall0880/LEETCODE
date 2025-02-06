@@ -2,6 +2,24 @@ class Solution {
 public:
     int tupleSameProduct(vector<int>& nums) {
         int n = nums.size();
+        unordered_map<int,int>mp;
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                int prod=nums[i]*nums[j];
+                mp[prod]++;
+            }
+        }
+        int count=0;
+        for(auto it : mp){
+            if(it.second>=2){
+                count+=((it.second)*(it.second-1))/2;
+            }
+        }
+        return count*8;
+    }
+};
+/*
+    int n = nums.size();    
         int count = 0;
         sort(nums.begin(), nums.end());
         for (int i = 0; i < n; i++) {
@@ -20,5 +38,4 @@ public:
             }
         }
         return count * 8;
-    }
-};
+*/
