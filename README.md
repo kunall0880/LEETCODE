@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/kunall0880/LEETCODE/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/kunall0880/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/kunall0880/LEETCODE/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/kunall0880/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/kunall0880/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -222,6 +223,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [1250-longest-common-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/kunall0880/LEETCODE/tree/master/1252-break-a-palindrome) |
@@ -247,6 +249,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kunall0880/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kunall0880/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
@@ -348,10 +351,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kunall0880/LEETCODE/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/kunall0880/LEETCODE/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kunall0880/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/kunall0880/LEETCODE/tree/master/0419-battleships-in-a-board) |
