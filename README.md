@@ -144,6 +144,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunall0880/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/kunall0880/LEETCODE/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -191,6 +192,7 @@
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunall0880/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunall0880/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/kunall0880/LEETCODE/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [2465-shifting-letters-ii](https://github.com/kunall0880/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunall0880/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunall0880/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/kunall0880/LEETCODE/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kunall0880/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Combinatorics
 |  |
