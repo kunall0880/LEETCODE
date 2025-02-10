@@ -13,10 +13,8 @@ public:
         for(int i=2;i<=n;i++){
             for(int j=2;j<=i;j++){
                 curr[j]=prev[j]+prev[j-1];
-                cout<<curr[j]<<" ";
             }
             prev=curr;
-            cout<<endl;
         }
         for(int i=0;i<=n;i++){
             if(prev[i]==0){
