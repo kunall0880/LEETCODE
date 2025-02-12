@@ -307,6 +307,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/kunall0880/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
@@ -379,6 +380,7 @@
 | ------- |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/kunall0880/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kunall0880/LEETCODE/tree/master/0200-number-of-islands) |
@@ -434,14 +436,17 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Linked List
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
