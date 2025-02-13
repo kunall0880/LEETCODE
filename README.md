@@ -71,6 +71,7 @@
 | [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunall0880/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunall0880/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunall0880/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunall0880/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/kunall0880/LEETCODE/tree/master/3429-special-array-i) |
@@ -131,6 +132,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunall0880/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -150,6 +152,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kunall0880/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunall0880/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunall0880/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kunall0880/LEETCODE/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
