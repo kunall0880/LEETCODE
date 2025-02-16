@@ -47,6 +47,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunall0880/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kunall0880/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kunall0880/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunall0880/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/kunall0880/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -389,6 +390,7 @@
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/kunall0880/LEETCODE/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/kunall0880/LEETCODE/tree/master/1022-unique-paths-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kunall0880/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kunall0880/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
