@@ -164,6 +164,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunall0880/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kunall0880/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
+| [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/kunall0880/LEETCODE/tree/master/1252-break-a-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -363,6 +365,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunall0880/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -395,6 +398,7 @@
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/kunall0880/LEETCODE/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/kunall0880/LEETCODE/tree/master/1022-unique-paths-iii) |
+| [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kunall0880/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kunall0880/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
