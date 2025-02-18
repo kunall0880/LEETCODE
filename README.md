@@ -26,6 +26,7 @@
 | [0518-coin-change-ii](https://github.com/kunall0880/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunall0880/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kunall0880/LEETCODE/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/kunall0880/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/kunall0880/LEETCODE/tree/master/0854-making-a-large-island) |
@@ -119,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kunall0880/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/kunall0880/LEETCODE/tree/master/2434-design-a-number-container-system) |
@@ -164,6 +167,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunall0880/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -356,6 +360,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/kunall0880/LEETCODE/tree/master/1033-broken-calculator) |
@@ -368,6 +373,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunall0880/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
