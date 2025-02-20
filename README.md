@@ -7,6 +7,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/kunall0880/LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/kunall0880/LEETCODE/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/kunall0880/LEETCODE/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/kunall0880/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
@@ -408,6 +409,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kunall0880/LEETCODE/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/kunall0880/LEETCODE/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/kunall0880/LEETCODE/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/kunall0880/LEETCODE/tree/master/1022-unique-paths-iii) |
