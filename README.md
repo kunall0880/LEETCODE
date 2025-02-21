@@ -172,6 +172,7 @@
 | [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunall0880/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kunall0880/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunall0880/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -354,6 +355,7 @@
 | [0820-find-eventual-safe-states](https://github.com/kunall0880/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kunall0880/LEETCODE/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/kunall0880/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -435,6 +437,7 @@
 | [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/kunall0880/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kunall0880/LEETCODE/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/kunall0880/LEETCODE/tree/master/2035-count-sub-islands) |
@@ -476,6 +479,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kunall0880/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kunall0880/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Tree
@@ -487,6 +491,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -496,6 +501,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
