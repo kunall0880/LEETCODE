@@ -265,6 +265,7 @@
 | ------- |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/kunall0880/LEETCODE/tree/master/1252-break-a-palindrome) |
@@ -437,6 +438,7 @@
 | [0695-max-area-of-island](https://github.com/kunall0880/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/kunall0880/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kunall0880/LEETCODE/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kunall0880/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kunall0880/LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -491,6 +493,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
@@ -501,6 +504,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
