@@ -34,6 +34,7 @@
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1022-unique-paths-iii](https://github.com/kunall0880/LEETCODE/tree/master/1022-unique-paths-iii) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunall0880/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -496,6 +498,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -507,6 +510,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunall0880/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kunall0880/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kunall0880/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kunall0880/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -522,6 +526,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
