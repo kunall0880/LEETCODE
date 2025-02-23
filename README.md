@@ -50,6 +50,7 @@
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kunall0880/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1748-best-team-with-no-conflicts](https://github.com/kunall0880/LEETCODE/tree/master/1748-best-team-with-no-conflicts) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kunall0880/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunall0880/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -117,6 +118,7 @@
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kunall0880/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1748-best-team-with-no-conflicts](https://github.com/kunall0880/LEETCODE/tree/master/1748-best-team-with-no-conflicts) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/kunall0880/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 ## Sorting
@@ -125,6 +127,7 @@
 | [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1748-best-team-with-no-conflicts](https://github.com/kunall0880/LEETCODE/tree/master/1748-best-team-with-no-conflicts) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kunall0880/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
