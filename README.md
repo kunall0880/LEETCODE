@@ -122,6 +122,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/kunall0880/LEETCODE/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/kunall0880/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/kunall0880/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/kunall0880/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunall0880/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -284,6 +285,7 @@
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/kunall0880/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/kunall0880/LEETCODE/tree/master/1252-break-a-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunall0880/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
