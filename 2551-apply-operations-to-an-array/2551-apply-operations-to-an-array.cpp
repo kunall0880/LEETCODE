@@ -9,17 +9,13 @@ public:
             }
         }
         int i=0;
-        while(i<n){
-            if(nums[i]==0){
-                int j=i+1;
-                while(j<n&&nums[j]==0){
-                    j++;
-                }
-                if(i!=j&&i<j&&j<n){
-                    swap(nums[i],nums[j]);
-                }
+        for(auto it :nums){
+            if(it!=0){
+                nums[i++]=it;
             }
-            i++;
+        }
+        while(i<nums.size()){
+            nums[i++]=0;
         }
         return nums;
     }
