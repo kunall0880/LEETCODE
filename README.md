@@ -67,6 +67,7 @@
 | [2145-grid-game](https://github.com/kunall0880/LEETCODE/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/kunall0880/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kunall0880/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kunall0880/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/kunall0880/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/kunall0880/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kunall0880/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kunall0880/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunall0880/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kunall0880/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -504,6 +506,7 @@
 | [0031-next-permutation](https://github.com/kunall0880/LEETCODE/tree/master/0031-next-permutation) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kunall0880/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunall0880/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunall0880/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
