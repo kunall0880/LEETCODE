@@ -1,7 +1,21 @@
 class Solution {
 public:
     bool checkPowersOfThree(int n) {
-        int power=0,ans=1;
+        while(n>0){
+            int a=n%3;
+            cout<<a<<endl;
+            n=n/3;
+            if(a!=0 && a!=1){
+                return false;
+            }
+        }
+        return true;
+    }
+};
+
+
+/*
+int power=0,ans=1;
         while(pow(3,power)<=n){
             power++;
         }
@@ -15,5 +29,4 @@ public:
             return true;
         }
         return false;
-    }
-};
+*/
