@@ -240,6 +240,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunall0880/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/kunall0880/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kunall0880/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kunall0880/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kunall0880/LEETCODE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunall0880/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -566,4 +567,8 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/kunall0880/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
