@@ -93,6 +93,7 @@
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/kunall0880/LEETCODE/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunall0880/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/kunall0880/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -219,6 +220,7 @@
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kunall0880/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/kunall0880/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [3483-alternating-groups-ii](https://github.com/kunall0880/LEETCODE/tree/master/3483-alternating-groups-ii) |
 ## Ordered Set
 |  |
 | ------- |
