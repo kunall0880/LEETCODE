@@ -96,6 +96,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunall0880/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/kunall0880/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/kunall0880/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kunall0880/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/kunall0880/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [2465-shifting-letters-ii](https://github.com/kunall0880/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunall0880/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/kunall0880/LEETCODE/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/kunall0880/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
