@@ -106,6 +106,7 @@
 | [3483-alternating-groups-ii](https://github.com/kunall0880/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunall0880/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kunall0880/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kunall0880/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunall0880/LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/kunall0880/LEETCODE/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kunall0880/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
