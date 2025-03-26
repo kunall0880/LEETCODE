@@ -66,6 +66,7 @@
 | [2035-count-sub-islands](https://github.com/kunall0880/LEETCODE/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/kunall0880/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kunall0880/LEETCODE/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunall0880/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kunall0880/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/kunall0880/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
@@ -162,6 +163,7 @@
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1748-best-team-with-no-conflicts](https://github.com/kunall0880/LEETCODE/tree/master/1748-best-team-with-no-conflicts) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunall0880/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/kunall0880/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kunall0880/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kunall0880/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -271,6 +273,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunall0880/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunall0880/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunall0880/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/kunall0880/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kunall0880/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kunall0880/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
@@ -385,6 +388,7 @@
 | [1876-map-of-highest-peak](https://github.com/kunall0880/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/kunall0880/LEETCODE/tree/master/2035-count-sub-islands) |
 | [2145-grid-game](https://github.com/kunall0880/LEETCODE/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunall0880/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kunall0880/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunall0880/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunall0880/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
