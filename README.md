@@ -223,6 +223,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/kunall0880/LEETCODE/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunall0880/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
+| [0768-partition-labels](https://github.com/kunall0880/LEETCODE/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunall0880/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunall0880/LEETCODE/tree/master/1160-letter-tile-possibilities) |
@@ -459,6 +461,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/kunall0880/LEETCODE/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/kunall0880/LEETCODE/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/kunall0880/LEETCODE/tree/master/1033-broken-calculator) |
@@ -582,6 +585,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kunall0880/LEETCODE/tree/master/0031-next-permutation) |
+| [0768-partition-labels](https://github.com/kunall0880/LEETCODE/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/kunall0880/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunall0880/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunall0880/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
