@@ -7,16 +7,14 @@ public:
         for(int i=0;i<n;i++){
             mp[s[i]]=i;
         }
-        int i=0,j=0,end=mp[s[0]];
+        int i=0,start=0,end=mp[s[0]];
         while(i<n){
-            while(j<=end){
-                end=max(end,mp[s[j]]);
-                j++;
+            end=max(end,mp[s[i]]);
+            if(i==end){
+                ans.push_back(end-start+1);
+                start=end+1;
             }
-            ans.push_back(j-i+1-1);
-            i=j;
-            end=max(end,mp[s[j]]);
-            j++;
+            i++;
         }
         return ans;
     }
