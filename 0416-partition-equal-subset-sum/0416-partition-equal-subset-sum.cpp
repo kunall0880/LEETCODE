@@ -1,96 +1,29 @@
 class Solution {
 public:
+    int dp[201][20100];
+    bool solve(vector<int>&nums,int ts,int idx){
+        if(ts==0){
+            return true;
+        }
+        if(idx>=nums.size()){
+            return false;
+        }
+        if(dp[idx][ts]!=-1){
+            return dp[idx][ts];
+        }
+        bool take=false;
+        if(nums[idx]<=ts){
+            take=solve(nums,ts-nums[idx],idx+1);
+        }
+        bool nottake=solve(nums,ts,idx+1);
+        return dp[idx][ts]=(take||nottake);
+    }
     bool canPartition(vector<int>& nums) {
-        int n = nums.size(), s = 0;
-        for (int i = 0; i < n; i++)
-            s += nums[i];
-        if (s % 2 != 0) {
+        int val=accumulate(nums.begin(),nums.end(),0);
+        if(val%2!=0){
             return false;
         }
-        int target = (s / 2);
-        vector<int> curr(target + 1, 0), prev(target + 1, 0);
-        prev[0] = true;
-        if (target >= nums[0]) {
-            prev[nums[0]] = true;
-        }
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j <= target; j++) {
-                bool nottake = prev[j];
-                bool take = false;
-                if (j >= nums[i]) {
-                    take = prev[j - nums[i]];
-                }
-                curr[j] = (take || nottake);
-            }
-            prev = curr;
-        }
-        return prev[target];
+        memset(dp,-1,sizeof(dp));
+        return solve(nums,val/2,0);
     }
-    /*
-        bool canPartition(vector<int>& nums) {
-        int n=nums.size(),s=0;
-        for(int i=0;i<n;i++)s+=nums[i];
-        if(s%2!=0){
-            return false;
-        }
-        int target=(s/2);
-        vector<vector<bool>>dp(n+1,vector<bool>((s/2)+1,0));
-        for(int i=0;i<n;i++){
-            dp[i][0]=true;
-        }
-        if(target>=nums[0]){
-            dp[0][nums[0]]=true;
-        }
-        for(int i=1;i<n;i++){
-            for(int j=1;j<=target;j++){
-                bool nottake=dp[i-1][j];
-                bool take=false;
-                if(j>=nums[i]){
-                take=dp[i-1][j-nums[i]];
-                }
-                dp[i][j]=(take||nottake);
-            }
-        }
-        return dp[n-1][target];
-    }
-
-
-
-bool solve(vector<int> nums,int idx,int sum,vector<vector<int>>&dp){
-        if(sum==0)return true;
-        if(idx==0){
-            if(idx==sum){
-                return true;
-            }
-            return false;
-        }
-        if(dp[idx][sum]!=-1){
-            return dp[idx][sum];
-        }
-        bool nottake=solve(nums,idx-1,sum,dp);
-        bool take=false;
-        if(sum>=nums[idx]){
-            take=solve(nums,idx-1,sum-nums[idx],dp);
-        }
-        return dp[idx][sum]=(take || nottake);
-    }
-
-
-
-bool solve(vector<int>& nums,int idx,int sum){
-        if(sum==0)return true;
-        if(idx==0){
-            if(idx==sum){
-                return true;
-            }
-            return false;
-        }
-        bool nottake=solve(nums,idx-1,sum);
-        bool take=false;
-        if(sum>=nums[idx]){
-            take=solve(nums,idx-1,sum-nums[idx]);
-        }
-        return (take || nottake);
-    }
-    */
 };
