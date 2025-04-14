@@ -54,6 +54,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunall0880/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunall0880/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/kunall0880/LEETCODE/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/kunall0880/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kunall0880/LEETCODE/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kunall0880/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1748-best-team-with-no-conflicts](https://github.com/kunall0880/LEETCODE/tree/master/1748-best-team-with-no-conflicts) |
@@ -683,6 +684,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/kunall0880/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kunall0880/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/kunall0880/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/kunall0880/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
