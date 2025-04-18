@@ -375,6 +375,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/kunall0880/LEETCODE/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/kunall0880/LEETCODE/tree/master/0079-word-search) |
 | [0768-partition-labels](https://github.com/kunall0880/LEETCODE/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/kunall0880/LEETCODE/tree/master/0878-shifting-letters) |
